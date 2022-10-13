@@ -1,6 +1,6 @@
-# About me:
+# 👨‍💻 About me:
 - 👋 Hi, I’m @pekvvi
-- 💻 I’m interested in cycling, graphic design, photography and IT
+- 👀 I’m interested in cycling, graphic design, photography and IT
 - 🌱 I’m currently learning programming in C#
 
 <!---
