@@ -13,6 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pekvvi&label=Profile%20views&color=0e75b6&style=flat" alt="pekvvi" /> </p>
 
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 <!---
 pekvvi/pekvvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
