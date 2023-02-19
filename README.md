@@ -1,6 +1,6 @@
 # 👨‍💻 **About me:**
 
-👋 Hi, I'm **@pamathev**
+👋 Hi, I'm **@pmathev**
 
 👀 I’m interested in **cycling, graphic design and IT**
 
